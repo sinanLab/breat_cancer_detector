@@ -8,9 +8,11 @@
    
 ``conda activate deep_learning_env  # Replace with your environment name if different``
 
-5. (Optional) If you made changes and want to update the environment
+4. (Optional) If you made changes and want to update the environment
    
 ``conda env update -f environment.yml --prune``
+
+5. activate the environment in the jupyter notebook and run the scipt one by one in the notebook
 
 # Breat Cancer Detector (results)
 This repository contains the code how the model has trained and deployed
