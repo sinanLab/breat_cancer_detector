@@ -12,7 +12,7 @@
    
 ``conda env update -f environment.yml --prune``
 
-# breat_cancer_detector
+# Breat Cancer Detector (results)
 This repository contains the code how the model has trained and deployed
 
 ## Table to show the comparison between FineTuned model and baseline
